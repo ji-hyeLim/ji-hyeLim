@@ -8,6 +8,8 @@ I'm **Dreamer Web Publisher** :first_quarter_moon_with_face:
 
 ### 📫 Contact
  **Email**: wisdomyoungster@naver.com
+ 
+ **KakaoTalk**: https://open.kakao.com/o/saKC6yYe
  <br><br>
  
 ### ⚡ My Skills
