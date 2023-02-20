@@ -1,7 +1,7 @@
 <div align="center">
 <h1> ✨:herb: Forest Of Wisdom :herb:✨ </h1>
 
-**Hello** :hand:  Welcome To My Git Hub page! 🎉
+**Hello** :hand:  Welcome to My Git Hub page! 🎉
 
 I'm **Dreamer Web Publisher** :first_quarter_moon_with_face:	
 <br><br>
