@@ -1,5 +1,5 @@
 <div align="center">
-<h1> ✨:herb: Forest Of Wisdom :herb:✨ </h1>
+<h1> ✨ Forest Of Wisdom ✨ </h1>
 
 **Hello** :hand:  Welcome to My Git Hub page! 🎉
 
